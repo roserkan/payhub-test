@@ -1,0 +1,3 @@
+Create ve CreateForAccount bir çok yeri benzerdir.
+Create normal akışı temsil ederken CreateForAccount ise bizim bayi olduğumuz senaryoyu temsil eder.
+Create paymentLink dönerken, CreateForAccount ise hesap döner.
